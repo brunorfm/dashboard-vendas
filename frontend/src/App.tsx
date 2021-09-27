@@ -19,7 +19,7 @@ function App() {
           <div className="col-sm-6">
             <h5 className="text-center text-secondary">Todas as Vendas</h5>
             <DonutChart />
-          </div>          
+          </div>
         </div>
 
         <div className="py-3">
